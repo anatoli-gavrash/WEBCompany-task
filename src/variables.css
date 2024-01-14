@@ -2,10 +2,16 @@
   --font-family: "PT Sans", "Arial", sans-serif;
 
   --color-white: #FFFFFF;
+
   --bkgr-blue: #265C9A;
   --bkgr-blue-dark: #1F497B;
+  --bkgr-blue-light: #618CBF;
+  --bkgr-gray: #B4B4B4;
+  --bkgr-red: #CE2929;
   --bkgr-red-light: #FFF1F1;
-  --bkgr-blue-light: #E8EEFF;
+  --bkgr-blue-ultra-light: #E8EEFF;
+  --bkgr-transparent: #00000099;
+
   --fc-dark: #333333;
   --fc-dark-medium: #484848;
   --fc-gray-light: #979797;
@@ -13,10 +19,13 @@
   --fc-blue-dark: #325AC0;
   --fc-red: #FF3D3D;
   --fc-yellow: #FBFF3D;
+
   --border-gray-light: #D0D0D0;
   --border-gray-lighter: #DEDEDE;
   --border-blue: #517DAE;
+
   --delimeter-red-light: #FFBCBC;
   --delimeter-blue-light: #8EACFC;
+  
   --select-arrow: #666666;
 }
